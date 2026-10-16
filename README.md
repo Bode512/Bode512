@@ -197,11 +197,18 @@ The repository list and contribution graph on GitHub remain available regardless
 
 <div align="center">
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=ffffff&color=24292f&line=0969da&point=1f2328&area=true&hide_border=true&custom_title=Contribution%20Activity">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=ffffff&color=24292f&line=0969da&point=1f2328&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=ffffff&color=24292f&line=0969da&point=1f2328&area=true&hide_border=true&custom_title=Contribution%20activity">
+  <img alt="Contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=ffffff&color=24292f&line=0969da&point=1f2328&area=true&hide_border=true&custom_title=Contribution%20activity">
 </picture>
+
+</div>
 
 </div>
 
@@ -249,7 +256,10 @@ are intentionally explicit to reduce low-contrast text in dark mode.
      that branch, GitHub will show a broken image. The README cannot create the
      SVGs by itself. Upload the generated files manually or set up automation.
 ════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
+
+</div>
 <div align="center">
  
 <!-- readme-pdf:exclude:start -->
