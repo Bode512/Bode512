@@ -193,25 +193,6 @@ The repository list and contribution graph on GitHub remain available regardless
 
 ---
 
-## Contribution activity
-
-<div align="center">
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=ffffff&color=24292f&line=0969da&point=1f2328&area=true&hide_border=true&custom_title=Contribution%20activity">
-  <img alt="Contribution activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bode512&bg_color=ffffff&color=24292f&line=0969da&point=1f2328&area=true&hide_border=true&custom_title=Contribution%20activity">
-</picture>
-
-</div>
-
-</div>
-
 <!--
 Stats and activity cards are provided by third-party services. GitHub does not
 guarantee their uptime, response speed, or rate limits. The theme variants above
