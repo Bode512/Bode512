@@ -191,7 +191,7 @@ longer reflects the work you want to highlight. -->
 <!-- If the stats service rate-limits requests, these images may temporarily fail.
 The repository list and contribution graph on GitHub remain available regardless. -->
 
----
+
 
 <!--
 Stats and activity cards are provided by third-party services. GitHub does not
