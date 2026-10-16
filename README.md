@@ -1,9 +1,9 @@
  <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:161B22,100:1F6FEB&text=BODE512&fontColor=F0F6FC&fontSize=62&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=60&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F6F8FA,50:EAEEF2,100:0969DA&text=BODE512&fontColor=1F2328&fontSize=62&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=60&animation=fadeIn"/>
-  <img width="100%" alt="Bode512 — Software development, systems and open source" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:161B22,100:1F6FEB&text=BODE512&fontColor=F0F6FC&fontSize=62&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=60"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:161B22,100:1F6FEB&text=BODE&fontColor=F0F6FC&fontSize=62&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=60&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F6F8FA,50:EAEEF2,100:0969DA&text=BODE&fontColor=1F2328&fontSize=62&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=60&animation=fadeIn"/>
+  <img width="100%" alt="Bode — Software development, systems and open source" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:161B22,100:1F6FEB&text=BODE&fontColor=F0F6FC&fontSize=62&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE&descSize=13&descAlignY=60"/>
 </picture>
 
 <br/>
