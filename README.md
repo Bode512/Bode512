@@ -224,7 +224,7 @@ The following technologies are evidenced by the public repositories described ab
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bode512&layout=compact&langs_count=6&hide_border=true&theme=default" alt="Languages detected in public repositories"/>
   </picture>
 </a>
-
+ 
 <br/><br/>
 
 <a href="https://github.com/Bode512">
